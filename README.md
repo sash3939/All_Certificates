@@ -35,6 +35,16 @@
 <img width="967" alt="image" src="https://github.com/user-attachments/assets/d6784c61-ebb8-4607-9c93-dbf54e4684cd" />  
 <img width="963" alt="image" src="https://github.com/user-attachments/assets/b0a91ec4-b6fe-49da-968a-66244f6f62aa" />  
 
+# Positive Technologies
+<img width="515" alt="image" src="https://github.com/user-attachments/assets/748df6a1-1574-4c40-b080-d24c1988760b" />  
+
+# СПЕЦИАЛИСТ
+
+## Защита от хакерским атакам, защита,противодействие,ответ
+![Защита от хакерским атакам, защита,противодействие,ответ](https://github.com/user-attachments/assets/69dd7a5b-1836-408c-aeba-56b9c3cae795)  
+
+
+
 
 
 
