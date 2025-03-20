@@ -23,7 +23,12 @@
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/2a01bd1e-0a77-4082-a130-81e2daa14131" />  
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/933d6f8b-30ff-4186-b33b-542f0b409579" />  
 <img width="962" alt="image" src="https://github.com/user-attachments/assets/2555987e-aa2d-4870-b8af-939f47798966" />  
-![37225_dpp_1](https://github.com/user-attachments/assets/6a300e34-3be5-4ddc-9105-a900bca213fc)  
+<img width="669" alt="image" src="https://github.com/user-attachments/assets/7bdaea21-baef-4873-8d55-9b29b485ac1c" />  
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/6550c9ec-1162-44f5-bbed-1ce4aafc0c88" />  
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/1319b285-f662-40bf-9d58-5674b915f809" />
+
+
+# НЕТОЛОГИЯ
 
 
 
