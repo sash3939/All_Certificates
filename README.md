@@ -28,7 +28,16 @@
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/1319b285-f662-40bf-9d58-5674b915f809" />
 
 
-# НЕТОЛОГИЯ
+# SKILLFACTORY
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/cb2e710b-e715-48ab-9151-14cdd16cdd76" />  
+<img width="976" alt="image" src="https://github.com/user-attachments/assets/93003b20-b758-49de-8c02-6bd770fdfae1" />  
+<img width="967" alt="image" src="https://github.com/user-attachments/assets/d6784c61-ebb8-4607-9c93-dbf54e4684cd" />  
+<img width="963" alt="image" src="https://github.com/user-attachments/assets/b0a91ec4-b6fe-49da-968a-66244f6f62aa" />  
+
+
+
+
 
 
 
