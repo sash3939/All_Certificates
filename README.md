@@ -42,6 +42,11 @@
 
 ## Защита от хакерским атакам, защита,противодействие,ответ
 ![Защита от хакерским атакам, защита,противодействие,ответ](https://github.com/user-attachments/assets/69dd7a5b-1836-408c-aeba-56b9c3cae795)  
+## CND-Защита от хакерских атак  
+![CND](https://github.com/user-attachments/assets/4382f4db-a94e-46c4-b898-1558d85b3ef3)  
+![CND-Защита от хакерских атак](https://github.com/user-attachments/assets/8589d463-a095-437f-82c8-a02b18d42bb0)  
+
+
 
 
 
