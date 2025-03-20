@@ -65,17 +65,23 @@
 ![Удостоверение, Linux5  Zabbix  Мониторинг IT инфраструктуры предприятия](https://github.com/user-attachments/assets/5501c37a-a1ae-432d-8a2a-287a167647a0)  
 
 ## CCNA    
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/efb8348c-df4d-4555-8067-1a72845f7e33" />    
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/efb8348c-df4d-4555-8067-1a72845f7e33" />  
+
 ## Mikrotik    
 <img width="964" alt="image" src="https://github.com/user-attachments/assets/cb46d73d-68d7-426a-9e67-75b6c298f998" />    
+
 ## DLP    
 <img width="964" alt="image" src="https://github.com/user-attachments/assets/a813dc45-1baa-4805-82dc-3dfeb107903c" />    
+
 ## Wallarm  
 <img width="497" alt="image" src="https://github.com/user-attachments/assets/af2bf9bc-d662-4343-9969-80f4ddc8fa77" />    
+
 ## Web-технологии. Создание сайтов    
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/21924e2b-d52b-45e4-8677-576365bf06f6" />   
+
 ## Infotecs    
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/b3317451-4719-4c0d-821e-30bb8d21b0a9" />  
+
 ## Моделирование угроз  
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/656310de-05fa-4f50-ad0c-73769d428697" />
 
