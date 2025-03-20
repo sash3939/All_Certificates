@@ -45,6 +45,60 @@
 ## CND-Защита от хакерских атак  
 ![CND](https://github.com/user-attachments/assets/4382f4db-a94e-46c4-b898-1558d85b3ef3)  
 ![CND-Защита от хакерских атак](https://github.com/user-attachments/assets/8589d463-a095-437f-82c8-a02b18d42bb0)  
+## Инженер безопасности систем, сервисов и сетей Linux (1)
+![Инженер безопасности систем, сервисов и сетей](https://github.com/user-attachments/assets/73da2f19-ff82-4c1b-a062-b26ee85598b3)  
+![Linux1-Основы администрирования](https://github.com/user-attachments/assets/8f78604a-9830-493c-bd39-df46d1f18302)  
+![Linux1-Основы администрирования систем Debian, Ubuntu,CentOS](https://github.com/user-attachments/assets/099425cb-d7f0-429d-a00a-cd66711a20bb)  
+## Администрирование сервисов и сетей Linux (2)
+![Linux2-Администрирование сервисов и сетей](https://github.com/user-attachments/assets/4860b676-9d09-4962-be8b-f615e054de61)  
+![Linux2-Администрирование сетевых сервисов](https://github.com/user-attachments/assets/036b9ca1-4205-487c-b93a-938bc46e9b96)  
+##  Обеспечение безопасности систем, сервисов и сетей Linux (3)
+![Linux  Уровень 3  Обеспечение безопасности систем, сервисов и сетей-RU](https://github.com/user-attachments/assets/fc224ec8-8c72-4201-9a6a-96934fe6aad9)  
+![Linux3-Обеспечение безопасности систем, сервисов и сетей](https://github.com/user-attachments/assets/70e7d2ad-878f-454a-8710-b12bb325cd29)  
+![Linux3-Обеспечение безопасности систем, сервисов и сетей](https://github.com/user-attachments/assets/17e1a597-cd2f-47eb-94fe-2281a0ecfe70)  
+##  Управление идентификацией и контролем доступа Linux (4)
+![Linux  Уровень 4 Управление идентификацией и контролем доступа-RU](https://github.com/user-attachments/assets/27c0184d-4c59-4f4c-9ad5-ddf0469cb359)  
+![Linux4-Управление идентификацией и контролем доступа](https://github.com/user-attachments/assets/2bfae7c0-2745-4d56-b1a0-aa1397c7973c)  
+![Linux4-Управление идентификацией и контролем доступа](https://github.com/user-attachments/assets/5114c7a4-1e61-46b2-8da2-2bf890be42a9)  
+## Zabbix  Мониторинг IT инфраструктуры предприятия Linux (5)
+![Linux5  Zabbix  Мониторинг IT инфраструктуры предприятия-RU](https://github.com/user-attachments/assets/17a40507-1bb8-4dde-804d-ee512ce3237c)  
+![Удостоверение, Linux5  Zabbix  Мониторинг IT инфраструктуры предприятия](https://github.com/user-attachments/assets/5501c37a-a1ae-432d-8a2a-287a167647a0)  
+
+## CCNA  
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/efb8348c-df4d-4555-8067-1a72845f7e33" />  
+## Mikrotik  
+<img width="964" alt="image" src="https://github.com/user-attachments/assets/cb46d73d-68d7-426a-9e67-75b6c298f998" />  
+
+## DLP  
+<img width="964" alt="image" src="https://github.com/user-attachments/assets/a813dc45-1baa-4805-82dc-3dfeb107903c" />  
+## Wallarm  
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/af2bf9bc-d662-4343-9969-80f4ddc8fa77" />  
+## Web-технологии. Создание сайтов  
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/21924e2b-d52b-45e4-8677-576365bf06f6" />  
+## Infotecs  
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/b3317451-4719-4c0d-821e-30bb8d21b0a9" />  
+## Моделирование угроз  
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/656310de-05fa-4f50-ad0c-73769d428697" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
