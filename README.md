@@ -1,5 +1,6 @@
 # CYBERED
 <img width="1402" height="994" alt="Диплом" src="https://github.com/user-attachments/assets/37d4183c-cde6-4707-9f77-899cd35561aa" />
+<img width="1938" height="1371" alt="Продвинутый серт" src="https://github.com/user-attachments/assets/79e21871-9caf-4041-b086-5af51e916629" />
 
 # НЕТОЛОГИЯ
 <img width="963" alt="image" src="https://github.com/user-attachments/assets/2ead61ca-1703-4bd0-8bba-d3b2ec91ea97" />  
